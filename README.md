@@ -1,0 +1,2 @@
+# sqltrials
+Learning sql 
